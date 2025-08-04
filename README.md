@@ -34,4 +34,4 @@ The `.vtk` files can be loaded in ParaView or other VTK-compatible tools for vis
 Tested with Python 3.10.11 and ParaView 5.13.3.
 
 ## Acknowledgement
-The research reported in this paper is part of project no. K146158, implemented with the support provided by the Ministry of Culture and Innovation of Hungary from the National Research, Development and Innovation Fund, financed under the OTKA K 23 funding scheme.
+This repository is part of project no. K146158, implemented with the support provided by the Ministry of Culture and Innovation of Hungary from the National Research, Development and Innovation Fund, financed under the OTKA K 23 funding scheme.
